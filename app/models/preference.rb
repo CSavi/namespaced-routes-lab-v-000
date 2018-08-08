@@ -1,3 +1,9 @@
 class Preference < ActiveRecord::Base
 
-end   
+<h1>Admin Preferences</h1>
+
+<h2>Select Song Sort Order: </h2>
+<h2>Select Artist Sort Order: </h2>
+<h2>Allow New Songs? </h2>
+<h2>Allow New Artists? </h2>
+end
